@@ -1,0 +1,146 @@
+
+@font-face {
+font-family: "AtlasTypewriter-Black-Trial";
+src: url("../fonts/AtlasTypewriter-Black-Trial.otf") format("opentype");
+font-style: bold;
+font-weight: 900;
+}
+
+  @font-face {
+    font-family: "AtlasTypewriter-BlackItalic-Trial";
+    src: url("../fonts/AtlasTypewriter-BlackItalic-Trial.otf") format("opentype");
+    font-style: italic;
+    font-weight: 900;
+  }
+  
+  @font-face {
+    font-family: "AtlasTypewriter-Bold-Trial";
+    src: url("../fonts/AtlasTypewriter-Bold-Trial.otf") format("opentype");
+    font-weight: 700;
+  }
+  
+  @font-face {
+    font-family: "AtlasTypewriter-BoldItalic-Trial";
+    src: url("../fonts/AtlasTypewriter-BoldItalic-Trial.otf") format("opentype");
+    font-style: italic;
+    font-weight: 700;
+  }
+  
+  @font-face {
+    font-family: "AtlasTypewriter-Light-Trial";
+    src: url("../fonts/AtlasTypewriter-Light-Trial.otf") format("opentype");
+    font-weight: 300;
+  }
+  
+  @font-face {
+    font-family: "AtlasTypewriter-LightItalic-Trial";
+    src: url("../fonts/AtlasTypewriter-LightItalic-Trial.otf") format("opentype");
+    font-style: italic;
+    font-weight: 300;
+  }
+  
+  @font-face {
+    font-family: "AtlasTypewriter-Medium-Trial";
+    src: url("../fonts/AtlasTypewriter-Medium-Trial.otf") format("opentype");
+    font-weight: 500;
+  }
+  
+  @font-face {
+    font-family: "AtlasTypewriter-MediumItalic-Trial";
+    src: url("../fonts/AtlasTypewriter-MediumItalic-Trial.otf") format("opentype");
+    font-style: italic;
+    font-weight: 500;
+  }
+  
+  @font-face {
+    font-family: "AtlasTypewriter-Regular-Trial";
+    src: url("../fonts/AtlasTypewriter-Regular-Trial.otf") format("opentype");
+    font-weight: 400;
+  }
+  
+  @font-face {
+    font-family: "AtlasTypewriter-Thin-Trial";
+    src: url("../fonts/AtlasTypewriter-Thin-Trial.otf") format("opentype");
+    font-weight: 100;
+  }
+  
+  @font-face {
+    font-family: "AtlasTypewriter-ThinItalic-Trial";
+    src: url("../fonts/AtlasTypewriter-ThinItalic-Trial.otf") format("opentype");
+    font-style: italic;
+    font-weight: 100;
+  }
+
+  h1{
+    font-family: "AtlasTypewriter-Black-Trial", Arial, sans-serif;
+    font-weight: 900;
+}
+
+p {
+  font-family: "AtlasTypewriter-Regular-Trial", Arial, sans-serif;
+  font-weight: 400 ;
+}
+
+h2 {
+  font-family: "AtlasTypewriter-Bold-Trial", Arial, sans-serif;
+  font-weight: 700 ;
+}
+
+.a {
+  font-family: "AtlasTypewriter-Regular-Trial", Arial, sans-serif;
+  font-weight: 400 ;
+}
+
+.Kk {
+  font-family: "AtlasTypewriter-Regular-Trial", Arial, sans-serif;
+  font-weight: 400 ;
+}
+.Bb{
+  font-family: "AtlasTypewriter-BoldItalic-Trial", Arial, sans-serif;
+  font-weight: 700 ;
+  font-style: italic;
+}
+.t{
+  font-family: "AtlasTypewriter-Regular-Trial", Arial, sans-serif;
+  font-weight: 400 ;
+}
+.tgpn{
+  font-family: "AtlasTypewriter-Regular-Trial", Arial, sans-serif;
+  font-weight: 400 ;
+}
+.glyph{
+  font-family: "AtlasTypewriter-Regular-Trial", Arial, sans-serif;
+  font-weight: 400 ;
+}
+.red {
+  font-family: "AtlasTypewriter-Regular-Trial", Arial, sans-serif;
+  font-weight: 400 ;
+}
+.flex1{
+  font-family: "AtlasTypewriter-Bold-Trial", Arial, sans-serif;
+  font-weight: 700 ;
+}
+.flex2{
+  font-family: "AtlasTypewriter-Bold-Trial", Arial, sans-serif;
+  font-weight: 700 ;
+}
+.flex3{
+  font-family: "AtlasTypewriter-Bold-Trial", Arial, sans-serif;
+  font-weight: 700 ;
+}
+.flex4{
+  font-family: "AtlasTypewriter-Bold-Trial", Arial, sans-serif;
+  font-weight: 700 ;
+}
+.flex5{
+  font-family: "AtlasTypewriter-Bold-Trial", Arial, sans-serif;
+  font-weight: 700 ;
+}
+.flex6{
+  font-family: "AtlasTypewriter-Bold-Trial", Arial, sans-serif;
+  font-weight: 700 ;
+}
+.flex7{
+  font-family: "AtlasTypewriter-Bold-Trial", Arial, sans-serif;
+  font-weight: 700 ;
+}
