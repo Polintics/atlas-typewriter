@@ -154,7 +154,7 @@ h2{
 .lines{
     width: 1440px;
     height: 470px;
-   background-image: url(file:///Users/polinaabdrakhmanova/Documents/Clean-main-1/img/aaaaaaa.svg);
+   background-image: url(../img/aaaaaaa.svg);
    display: flex;
    justify-content: center;
    align-items: center;
@@ -191,7 +191,7 @@ h2{
 .machineimg {
     width: 1191px;
     height: 754px;
-    background-image: url(file:///Users/polinaabdrakhmanova/Documents/Clean-main-1/img/machine.svg);
+    background-image: url(../img/machine.svg);
     display: flex;
     justify-content: center;
     margin-top: 50px;
